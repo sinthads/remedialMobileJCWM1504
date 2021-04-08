@@ -6,7 +6,7 @@ Sebelum anda mengerjakan soal ujian, pastikan anda memiliki akun **GitHub** dan 
 
 Soal ujian dapat diakses melalui link dibawah ini
 
-- link : https://docs.google.com/document/d/1R_onmkPnoBsDE-VYckUquOEPvqpaBEcREru4Ae3v8ps/edit?usp=sharing
+- link : https://drive.google.com/file/d/1yHoBax5yyPfK6H7DBwWj-8_N14t9egmh/view?usp=sharing
 
 Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam mengerjakan soal-soal ujian berikut ini.
 
